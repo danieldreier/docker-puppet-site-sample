@@ -1,3 +1,5 @@
+forge 'forge.puppetlabs.com'
+
 mod 'stdlib',         :git => 'git://github.com/puppetlabs/puppetlabs-stdlib.git'
 mod 'apt',         :git => 'git://github.com/puppetlabs/puppetlabs-apt.git'
 mod 'concat',         :git => 'git://github.com/puppetlabs/puppetlabs-concat.git'
@@ -15,3 +17,4 @@ mod 'inifile',        :git => 'git://github.com/puppetlabs/puppetlabs-inifile.gi
 mod 'apache',         :git => 'git://github.com/puppetlabs/puppetlabs-apache.git'
 mod 'portage',        :git => 'git://github.com/gentoo/puppet-portage.git'
 mod 'thin',           :git => 'git://github.com/danieldreier/puppet-thin.git'
+mod 'puppetlabs/ntp', '3.0.3'
