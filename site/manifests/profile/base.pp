@@ -1,3 +1,3 @@
-class profile::base {
+class site::profile::base {
   class { '::ntp': }
 }
