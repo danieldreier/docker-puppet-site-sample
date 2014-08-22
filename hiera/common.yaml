@@ -1,6 +1,6 @@
 ---
 classes:
- - 'profile::base'
+  - 'site::profile::base'
 
 ntp::servers:
   - 0.us.pool.ntp.org
