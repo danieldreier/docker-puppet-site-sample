@@ -1,4 +1,4 @@
-FROM danieldreier/r10k-builder
+FROM danieldreier/docker-r10k-builder
 MAINTAINER Daniel Dreier <ddreier@thinkplango.com>
 
 ADD . /opt/dockermaster/src/site-repo
